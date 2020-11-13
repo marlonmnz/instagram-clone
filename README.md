@@ -4,7 +4,7 @@ Aula da Digital Innovation One "Recriando a página de login do Instagram" para 
 ## O que foi abordado?
 
 - Organização do HTML preparando e separando os componentes
-- Display Flex
+- FlexBox
 - Media Queries (Responsividade)
 
 
